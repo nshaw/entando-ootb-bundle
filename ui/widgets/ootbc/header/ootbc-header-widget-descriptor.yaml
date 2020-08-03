@@ -1,0 +1,12 @@
+code: ootbc-header-widget
+titles:
+  en: Ootbc header Widget
+  it: Ootbc header Widget
+group: free
+customUiPath: ootbc-header-widget.ftl
+configUi:
+    customElement: header-config
+    resources:
+        - ootbc-bundle/static/js/2.8887cab1.chunk.js
+        - ootbc-bundle/static/js/main.0acb2ec5.chunk.js
+        - ootbc-bundle/static/js/runtime-main.45dc1061.js

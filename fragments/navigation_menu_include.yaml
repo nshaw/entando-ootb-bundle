@@ -1,0 +1,4 @@
+code: navigation_menu_include # The fragment identification
+
+# Optional. The GuiCode Path, the fragment.ftl file will have the guiCde conent in it
+guiCodePath: navigation_menu_include.ftl

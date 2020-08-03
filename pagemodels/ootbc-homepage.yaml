@@ -1,0 +1,40 @@
+code: OotbcHomepage # The Page Model identification
+description: Ootbc Homepage # The Page Model description
+
+titles: # Page Model's Titles
+    en: Ootbc Homepage # Title in English
+    it: Homepage Ootbc # Title in Italian
+
+# The Page Model configuration
+configuration:
+    frames: # All frames
+        -   pos: 0 # Frame position
+            description: Header # Frame description
+            sketch: null
+
+        -   pos: 1 # Frame position
+            description: Colonna 12 # Frame description
+            sketch: null
+
+        -   pos: 2 # Frame position
+            description: Colonna 12 # Frame description
+            sketch: null
+
+        -   pos: 3 # Frame position
+            description: Colonna 12 # Frame description
+            sketch: null
+
+        -   pos: 4 # Frame position
+            description: Colonna 12 # Frame description
+            sketch: null
+
+        -   pos: 5 # Frame position
+            description: Colonna 12 # Frame description
+            sketch: null
+
+        -   pos: 6 # Frame position
+            description: Footer # Frame description
+            sketch: null
+
+# Optional. Define the Page Model Template in a separate file or inside descriptor file with `template`
+templatePath: ootbc-homepage.ftl

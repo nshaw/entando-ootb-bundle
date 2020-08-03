@@ -1,0 +1,6 @@
+code: ootbc-footer-config-widget
+titles:
+  en: Ootbc Footer Config Widget
+  it: Ootbc Footer Config Widget
+group: free
+customUiPath: ootbc-footer-config-widget.ftl

@@ -1,0 +1,12 @@
+code: ootbc-footer-widget
+titles:
+    en: Ootbc footer Widget
+    it: Ootbc footer Widget
+group: free
+customUiPath: ootbc-footer-widget.ftl
+configUi:
+    customElement: footer-config
+    resources:
+        - ootbc-bundle/static/js/2.ebab26f7.chunk.js
+        - ootbc-bundle/static/js/main.580b8a09.chunk.js
+        - ootbc-bundle/static/js/runtime-main.e2a7a9b2.js

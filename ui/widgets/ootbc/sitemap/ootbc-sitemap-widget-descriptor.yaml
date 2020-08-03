@@ -1,0 +1,6 @@
+code: ootbc-sitemap-widget
+titles:
+  en: Ootbc Sitemap Widget
+  it: Ootbc Sitemap Widget
+group: free
+customUiPath: ootbc-sitemap-widget.ftl

@@ -1,0 +1,21 @@
+code: ootbc-bundle
+description: This is the ootbc bundle
+
+components:
+  plugins:
+    # - plugins/ootbc-plugin.yaml
+
+  widgets:
+    - ui/widgets/ootbc/header/ootbc-header-widget-descriptor.yaml
+    - ui/widgets/ootbc/footer/ootbc-footer-widget-descriptor.yaml
+    - ui/widgets/ootbc/sitemap/ootbc-sitemap-widget-descriptor.yaml
+
+  fragments:
+    - fragments/navigation_menu_include.yaml
+
+  pageModels:
+    - pagemodels/ootbc-homepage.yaml
+
+  contentTypes:
+
+  contentModels:

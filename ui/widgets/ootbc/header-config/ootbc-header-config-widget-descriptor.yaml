@@ -1,0 +1,6 @@
+code: ootbc-header-config-widget
+titles:
+  en: Ootbc Header Config Widget
+  it: Ootbc Header Config Widget
+group: free
+customUiPath: ootbc-header-config-widget.ftl
